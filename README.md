@@ -41,7 +41,11 @@ Her vil du kunne redigere i dine filer i terminale
 ```console
 nano index.html
 ```
-
+**Reset**
+Reset restarter din command line
+````console
+reset
+```
 
 
 ## Github commands
