@@ -12,7 +12,7 @@ cd Users
 ```
 
 bevæger sig ind i en mappe uafhængig af hvor du står 
-````console
+```console
 cd ~/Documents
 ```
 bevæger sig ud af mappen
@@ -28,7 +28,7 @@ ls
 ``
 **Mkdir**
 Mkdir laver en ny mappe til dig
-````console
+```console
 mkdir nymappe
 ```
 **Touch**
@@ -43,7 +43,7 @@ nano index.html
 ```
 **Reset**
 Reset restarter din command line
-````console
+```console
 reset
 ```
 
