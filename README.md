@@ -1,8 +1,8 @@
-## terminal cheat sheat
+# terminal cheat sheat
 
 Terminal commands 
 
-# basic terminal funktioner
+## basic terminal funktioner
 **CD**
 
 //bevæg dig ind i en mappe
@@ -21,7 +21,7 @@ cd ..
 
 **LS**
 
-HVis du skriver **LS** i terminalen får du en liste af hvad der er i mappen
+LS i terminalen laver en liste af hvad der er i mappen
 
 **Mkdir**
 
@@ -37,7 +37,7 @@ Her vil du kunne redigere i dine filer i terminale
 
 
 
-# Github commands
+## Github commands
 
 Laver mappen README of skriver indhold i den
 echo "# terminalcheatsheat" >> README.md
