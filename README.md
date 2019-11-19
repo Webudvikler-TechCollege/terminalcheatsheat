@@ -5,7 +5,7 @@ Terminal commands
 ## basic terminal funktioner
 **CD**
 
-//bevæg dig ind i en mappe
+bevæg dig ind i en mappe
 bevæger sig ind i mappen
 ```console
 cd Users
@@ -25,7 +25,7 @@ cd ..
 LS i terminalen laver en liste af hvad der er i mappen
 ```cosole
 ls
-``
+```
 **Mkdir**
 Mkdir laver en ny mappe til dig
 ```console
