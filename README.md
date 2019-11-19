@@ -6,34 +6,41 @@ Terminal commands
 **CD**
 
 //bevæg dig ind i en mappe
-```console
-
 bevæger sig ind i mappen
+```console
 cd Users
+```
 
 bevæger sig ind i en mappe uafhængig af hvor du står 
+````console
 cd ~/Documents
-
+```
 bevæger sig ud af mappen
+```console
 cd ..
-
 ```
 
 **LS**
 
 LS i terminalen laver en liste af hvad der er i mappen
-
+```cosole
+ls
+``
 **Mkdir**
-
 Mkdir laver en ny mappe til dig
-
+````console
+mkdir nymappe
+```
 **Touch**
-
 Laver en ny fil 
-
+```console
+touch index.html
+```
 **Nano**
-
 Her vil du kunne redigere i dine filer i terminale
+```console
+nano index.html
+```
 
 
 
