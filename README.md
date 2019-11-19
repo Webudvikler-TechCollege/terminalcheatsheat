@@ -30,6 +30,7 @@ cd ..
 **LS**
 
 LS i terminalen laver en liste af hvad der er i mappen
+Tilføj **-la** hvis du os vil se skjulte folders
 
 ```cosole
 ls
@@ -47,6 +48,20 @@ Laver en ny fil
 
 ```console
 touch index.html
+```
+
+**rmdir**
+Deleter mappen brug -i hvis du ikke er sikker
+
+```console
+rmdir Archives
+```
+
+**rm**
+rm fjerner filer eller hvis du skal fjerne en mappe med alt indhold brug -rf for at force det
+
+```console
+rm -rf nymappe
 ```
 
 **Nano**
