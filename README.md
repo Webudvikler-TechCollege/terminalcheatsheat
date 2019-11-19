@@ -40,23 +40,30 @@ Her vil du kunne redigere i dine filer i terminale
 ## Github commands
 
 Laver mappen README of skriver indhold i den
+```
 echo "# terminalcheatsheat" >> README.md
-
+```
 Starter en Repo
+```
 git init
-
+```
 Tilføjer din README.md fil 
+```
 git add README.md
-
+```
 Tilføjer Alt
+```
 git add -A
-
+```
 Commiter det du har tilføjet 
+```
 git commit -m "first commit"
-
+```
 Connecter til dit Github Repo
-git remote add origin https://github.com/kraenbyskov/terminalcheatsheat.git
-
+```
+git remote add origin https://github.com/user/repoName.git
+```
 Pusher til Master
+```
 git push -u origin master 
-
+```
