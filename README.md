@@ -32,8 +32,20 @@ cd ..
 LS i terminalen laver en liste af hvad der er i mappen
 Tilføj **-la** hvis du os vil se skjulte folders
 
-```cosole
+```console
 ls
+```
+
+koble flere commands sammen ved at bruge **;**
+
+```console
+cd app/site ; code . ; yarn start
+```
+
+Åben vs Code i terminalen i den mappe du står i ( windows skal tillade det først igennem vs code )
+
+```console
+code .
 ```
 
 **Mkdir**
