@@ -42,11 +42,15 @@ koble flere commands sammen ved at bruge **;**
 cd app/site ; code . ; yarn start
 ```
 
+**Åben VS Code**
+
 Åben vs Code i terminalen i den mappe du står i ( windows skal tillade det først igennem vs code )
 
 ```console
 code .
 ```
+
+**Ny Mappe**
 
 **Mkdir**
 Mkdir laver en ny mappe til dig
@@ -54,6 +58,8 @@ Mkdir laver en ny mappe til dig
 ```console
 mkdir nymappe
 ```
+
+**Ny File**
 
 **Touch**
 Laver en ny fil
@@ -88,6 +94,13 @@ Reset restarter din command line
 
 ```console
 reset
+```
+
+**Clear**
+Clear din terminal
+
+```console
+clear
 ```
 
 ## Github commands
